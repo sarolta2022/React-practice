@@ -1,6 +1,6 @@
 import React, { useState, Fragment } from "react";
 import AddUser from "./components/Users/AddUser";
-import Card from "./components/UI/Card";
+
 import UsersList from "./components/Users/UsersList";
 
 function App(props) {
